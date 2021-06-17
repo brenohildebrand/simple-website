@@ -2,8 +2,6 @@
 
 <p>This is a simple hello-world website created to demonstrate how to serve a web app using express. Check it out!</p>
 
-<br/>
-
 <h3>Get Started</h3>
 
 ```bash
